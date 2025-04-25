@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "lib": [ "es2020", "dom" ],
+        "module": "esnext",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "skipLibCheck": true
+    },
+    "include": [
+        "wwwroot/Scripts/WebSharper/**/*.ts",
+        "wwwroot/Scripts/WebSharper/**/*.d.ts"
+    ]
+}

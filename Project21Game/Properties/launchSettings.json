@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Project21Game": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57365;http://localhost:57366"
+    }
+  }
+}
